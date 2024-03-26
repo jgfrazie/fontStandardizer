@@ -39,6 +39,12 @@ Please follow the instructions below step by step to properly install the extens
 
 The extension is enabled by default for all webpages. To toggle the extension on and off, press the key combo ctrl+backslash (control key and backslash key). When the extension is enabled, all side-effects listed under "Functionalities" will be on.
 
+# Future Improvements
+
+* Allow users to choose their font family and size.
+* Allow users to map functionality to keybindings of their choosing
+* Give a visual indicator of which mode the user is current in on the webpage.
+
 ## Contact & Other
 
 If you have trouble with the extension or have any unanswered questions, you can contact me via my webpage jgfrazie.github.io or by my email (james.frazier8093@gmail.com).
