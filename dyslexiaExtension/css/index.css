@@ -1,0 +1,14 @@
+/* 
+Extension: DyslexiaExtension
+File: index.css
+Author: James Gunder Frazier (jgfrazie.github.io)
+DlM: 12/17/2023
+DESC: Stores the stylization of the dyslexia extension.
+*/
+
+/* Any element with this class will display the dyslexia-friendly fonts in-place of the regular fonts */
+.dysFriendlyFont {
+    font-family: 'Lexend', sans-serif;
+    font-size: max(1em, 12px); /* If a font is smaller than 12px, it turns it to 12px font size */
+}
+   

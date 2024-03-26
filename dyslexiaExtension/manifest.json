@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Dyslexia Font Style",
+    "minimum_chrome_version": "24.0.1307.0",
+    "version": "0.0.1",
+    "homepage_url": "https://jgfrazie.github.io/",
+    "icons": {
+    },
+    "content_scripts": [
+    {
+    "matches": [
+        "*://*/*"
+    ],
+    "js": [
+    "scripts/jquery.min.js",
+    "scripts/index.js"
+    ],
+    "css": ["css/index.css"],
+    "run_at": "document_idle"
+    }
+    ]
+}
+   
