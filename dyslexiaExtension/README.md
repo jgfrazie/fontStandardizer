@@ -1,6 +1,6 @@
 # NOTICE
 
-This extension is currently permitted to be in use by the following institutions:
+This extension is currently in use at the following institutions:
 
     (1) New Covenant Christian Academy (NCCA)
 
