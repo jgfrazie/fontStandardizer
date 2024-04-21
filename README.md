@@ -1,7 +1,7 @@
 # Font-Standardizer
 
 ## NOTE
-This extension is currently in use at the following institutions:
+This project is the publically accessible version. Variations of this extension have been developed and distributed for private use. This extension is currently in use at the following institutions:
 
     (1) New Covenant Christian Academy (NCCA)
 
